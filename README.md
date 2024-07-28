@@ -3,13 +3,17 @@
 
 **A front-end solution that simplifies app installation and website access during face-to-face interactions.**
 
-🌟🌞🔥【广告】 twoapi.qiangtu.com 提供的人工智能调用测试，不断进化的AI服务，期待🌹您的反馈和建议！[反馈](http://qr61.cn/oRUvxf/qyT8mJT) 🚀 
+🌟🌞🔥【广告】 [twoapi.qiangtu.com](https://twoapi.qiangtu.com) 提供的人工智能调用测试，不断进化的AI服务，期待🌹您的反馈和建议！[反馈](http://qr61.cn/oRUvxf/qyT8mJT) 🚀 
 
 
 
 ## 项目简介
 
 这个项目的核心代码由 GPT-4o 完成，并由奥丁进行了一些调整，感谢 OpenAI 的支持。
+
+![image-20240728215407219](https://memosfile.qiangtu.com/picgo/assets/2024/07/28202407_28215407.png)
+
+![image-20240728215314345](https://memosfile.qiangtu.com/picgo/assets/2024/07/28202407_28215314.png)
 
 ## 项目背景
 
