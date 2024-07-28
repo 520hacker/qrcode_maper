@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WAY TO AGI</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/vue@3.2.37/dist/vue.global.prod.js"></script>
+    <script src="wordcloud2.js"></script>
+    <style>
+        #wordcloud {
+            width: 100%;
+            height: 100%;
+            min-height: 800px;
+            display: block;
+            z-index: -1;
+            position: fixed !important;
+            top: 0;
+            left: 0;
+        }
+
+        .title {
+            font-size: 2em;
+            background: rgba(255, 255, 255, .96);
+            padding: 0 10px;
+            color: rgba(0, 0, 0, .6);
+            border-radius: 10px;
+        }
+    </style>
+</head>
+
+<body class="bg-gray-100">
+    <div id="app" class="flex items-center justify-center min-h-screen">
+        <div>
+            <div id="wordcloud" class="w-full h-96 bg-white rounded-lg shadow-md"></div>
+            <div class="title" onclick="top.location.href='/desktop.html'">AI安装服务 仅需5币</div>
+        </div>
+    </div>
+    <script src="ciyun.js"></script>
+    <script src="https://twoapi-ui.qiangtu.com/scripts/content.js"></script>
+</body>
+
+</html>
